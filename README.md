@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning mathematics and programming.
-[Moja strona](https://github.com/mat205)
+
+[Moja strona]([https://github.com/mat205](https://mat205.github.io/))
 # It is the end of my short description.
 
 
