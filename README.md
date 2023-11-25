@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 🌱 I’m currently learning mathematics and programming.
+[Moja strona](https://github.com/mat205)
 # It is the end of my short description.
-mat205.github.io
+
 
 <!--
 **mat205/mat205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
