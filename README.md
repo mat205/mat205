@@ -2,6 +2,10 @@
 - 🌱 I’m currently learning mathematics and programming.
 
 [Moja strona](https://mat205.github.io/)
+
+[Link do repozytorium](https://github.com/mat205/GS-IR)
+
+[Link do artykułu związanego z reopozytorium](https://paperswithcode.com/paper/gs-ir-3d-gaussian-splatting-for-inverse#code)
 # It is the end of my short description.
 
 
